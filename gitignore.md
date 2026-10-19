@@ -2,4 +2,4 @@
 *.mkv 
 *.mov 
 .DS_Store 
-Thumbs.db
+ Thumbs.db
